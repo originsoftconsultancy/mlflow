@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mudassar/workspace/mlflow/MlFlowStarter/2-DLproject/mlruns/826541451603229085/1ded9f762d0d4cab8db0142e7b8edd02/artifacts
+end_time: 1763046170461
+entry_point_name: ''
+experiment_id: '826541451603229085'
+lifecycle_stage: active
+run_id: 1ded9f762d0d4cab8db0142e7b8edd02
+run_name: welcoming-shad-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763046170423
+status: 4
+tags: []
+user_id: mudassar

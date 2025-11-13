@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mudassar/workspace/mlflow/MlFlowStarter/2-DLproject/mlruns/826541451603229085/5901211c6d4b40429419a89e7fe4e703/artifacts
+end_time: 1763046808939
+entry_point_name: ''
+experiment_id: '826541451603229085'
+lifecycle_stage: active
+run_id: 5901211c6d4b40429419a89e7fe4e703
+run_name: blushing-donkey-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763046752747
+status: 3
+tags: []
+user_id: mudassar

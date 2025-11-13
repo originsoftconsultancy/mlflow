@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mudassar/workspace/mlflow/MlFlowStarter/2-DLproject/mlruns/826541451603229085/fdb997bc6ae64a4ea63a6909daefe788/artifacts
+end_time: 1763046237073
+entry_point_name: ''
+experiment_id: '826541451603229085'
+lifecycle_stage: active
+run_id: fdb997bc6ae64a4ea63a6909daefe788
+run_name: merciful-sloth-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763046235470
+status: 4
+tags: []
+user_id: mudassar

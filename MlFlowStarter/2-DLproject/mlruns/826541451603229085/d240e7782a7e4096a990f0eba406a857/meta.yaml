@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mudassar/workspace/mlflow/MlFlowStarter/2-DLproject/mlruns/826541451603229085/d240e7782a7e4096a990f0eba406a857/artifacts
+end_time: 1763046355060
+entry_point_name: ''
+experiment_id: '826541451603229085'
+lifecycle_stage: active
+run_id: d240e7782a7e4096a990f0eba406a857
+run_name: lyrical-fawn-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763046354978
+status: 4
+tags: []
+user_id: mudassar

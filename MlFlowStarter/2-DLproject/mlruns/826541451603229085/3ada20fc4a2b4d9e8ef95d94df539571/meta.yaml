@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mudassar/workspace/mlflow/MlFlowStarter/2-DLproject/mlruns/826541451603229085/3ada20fc4a2b4d9e8ef95d94df539571/artifacts
+end_time: 1763046774931
+entry_point_name: ''
+experiment_id: '826541451603229085'
+lifecycle_stage: active
+run_id: 3ada20fc4a2b4d9e8ef95d94df539571
+run_name: melodic-bass-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763046753346
+status: 3
+tags: []
+user_id: mudassar

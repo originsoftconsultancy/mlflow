@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mudassar/workspace/mlflow/MlFlowStarter/2-DLproject/mlruns/826541451603229085/5b65be65315a4625a70066e9ca2aa47f/artifacts
+end_time: 1763046319936
+entry_point_name: ''
+experiment_id: '826541451603229085'
+lifecycle_stage: active
+run_id: 5b65be65315a4625a70066e9ca2aa47f
+run_name: aged-kit-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763046319860
+status: 4
+tags: []
+user_id: mudassar

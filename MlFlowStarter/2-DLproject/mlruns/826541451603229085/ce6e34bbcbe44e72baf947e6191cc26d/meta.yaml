@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mudassar/workspace/mlflow/MlFlowStarter/2-DLproject/mlruns/826541451603229085/ce6e34bbcbe44e72baf947e6191cc26d/artifacts
+end_time: 1763046802467
+entry_point_name: ''
+experiment_id: '826541451603229085'
+lifecycle_stage: active
+run_id: ce6e34bbcbe44e72baf947e6191cc26d
+run_name: dapper-colt-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763046794603
+status: 3
+tags: []
+user_id: mudassar

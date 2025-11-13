@@ -1,0 +1,10 @@
+artifact_location: file:///home/mudassar/workspace/mlflow/MlFlowStarter/2-DLproject/mlruns/826541451603229085/models/m-d48881141bce4a8da99c4a67c25df205/artifacts
+creation_timestamp: 1763046802486
+experiment_id: '826541451603229085'
+last_updated_timestamp: 1763046808933
+model_id: m-d48881141bce4a8da99c4a67c25df205
+model_type: null
+name: model
+source_run_id: 5901211c6d4b40429419a89e7fe4e703
+status: 2
+status_message: null

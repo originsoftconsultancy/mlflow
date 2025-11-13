@@ -1,0 +1,15 @@
+creation_timestamp: 1763047772872
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1763047772872
+model_id: m-d48881141bce4a8da99c4a67c25df205
+name: finalmodel
+run_id: 5901211c6d4b40429419a89e7fe4e703
+run_link: ''
+source: models:/m-d48881141bce4a8da99c4a67c25df205
+status: READY
+status_message: null
+storage_location: file:///home/mudassar/workspace/mlflow/MlFlowStarter/2-DLproject/mlruns/826541451603229085/models/m-d48881141bce4a8da99c4a67c25df205/artifacts
+user_id: null
+version: 1
